@@ -6,7 +6,7 @@ email: xdnloveme@gmail.com
 description: ""
 keyword: ""
 url: "http://www.tangyida.com"              # your host, for absolute URL
-baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -14,7 +14,7 @@ baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 weibo_username:     tangyida
 zhihu_username:     tangyida
-github_username:    tangyida
+github_username:    xdnloveme
 #twitter_username:  tangyida
 facebook_username:  tangyida
 
@@ -69,7 +69,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "随遇而安"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
