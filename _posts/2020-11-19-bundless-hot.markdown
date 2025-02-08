@@ -17,7 +17,7 @@ tags:
 
 最近实践了bundleless，在热更新上栽了很多跟头，这次更新一下最近热更新原理探索的实践，我们先来梳理一下Bundleless + react-refresh实现热更新的时序图：
 
-![时序图](![alt text](../img/image.png))
+![时序图](![alt text](img/image.png))
 
 上面时序图需要注意的点有几点：
 
